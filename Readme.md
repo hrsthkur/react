@@ -10,3 +10,23 @@ bundling
 compressing
 uses libraries to do all these things 
 tree shaking - it removes the unused code
+
+
+
+/* structure of our app
+App
+    ->Header
+        ->Logo
+        ->Nav items
+    ->Body
+        ->Search
+        ->Cards
+            ->Card
+                ->image
+                ->name,star rating,ETA,
+    ->Footer
+        ->copyright
+        ->links
+        ->address
+        ->contact
+ */

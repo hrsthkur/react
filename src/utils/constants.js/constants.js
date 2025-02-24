@@ -1,0 +1,2 @@
+export const LOGO_LINK = "https://imgs.search.brave.com/koUJ7bl0tR8rrCpVC7S4vV1nVs5_8wj4SEeLXo6VGcw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wZW5q/aS5jby93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMi8wOC8xMC4t/bXIuLWQtZm9vZC1s/b2dvLmpwZw"
+export const IMAGE_CDN = "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/"
