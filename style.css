@@ -54,3 +54,17 @@
     justify-content: space-between;
     margin: 10px;
 }
+.shimmer-cards{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 60px;
+}
+.shimmer-card{
+    height: 400px;
+    width: 200px;
+    background-color: #f0f0f0;
+    display: block;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
