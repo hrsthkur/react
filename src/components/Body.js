@@ -7,7 +7,6 @@ const Body = () => {
   const [filteredrestraunt, setfilteredrestraunt] = useState([])
 
   const [searchtext, setsearchtext] = useState("");
-  let reslistcopy = [];
 
   useEffect(() => {
     fetchdata();
